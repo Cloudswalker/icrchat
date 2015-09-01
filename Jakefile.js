@@ -5,7 +5,7 @@
 {
     "use strict";
 
-    desc("Default task");
+    desc("Default task task");
     task("default", function()
     {
         console.log("\nBUILD SUCCESS\n");
